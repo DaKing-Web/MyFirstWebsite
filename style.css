@@ -1,0 +1,91 @@
+body {
+    margin: 20px;
+    padding: 0;
+    background-image: linear-gradient(to right, green, lightgreen)
+}
+
+div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.yellow {
+    background-color: rgb(231, 231, 120);
+    margin-right: 500px;
+    text-shadow: 2px 2px violet;
+    box-shadow: 10px 10px violet;
+}
+
+.Brown {
+    background-color: rgb(236, 50, 50);
+    padding-left: 40px;
+    margin-right: 500px;
+    text-shadow: 2px 2px green;
+    box-shadow: 10px 10px green;
+}
+
+.LightGreen {
+    background-color: lightgreen;
+    padding-left: 40px;
+    margin-right: 500px;
+    text-shadow: 2px 2px lightcoral;
+    box-shadow: 10px 10px lightcoral;
+    
+}
+
+.Lightbrown {
+    background-color: rgba(189, 140, 76, 0.973);
+    padding-left: 40px;
+    margin-right: 500px;
+    text-shadow: 2px 2px white;
+    box-shadow: 10px 10px white;
+}
+
+.Peashootergreen {
+    background-color: rgb(56, 196, 56);
+    padding-left: 40px;
+    margin-right: 500px;
+    text-shadow: 2px 2px red;
+    box-shadow: 10px 10px red;
+}
+
+.Lightblue {
+    background-color: lightskyblue;
+    padding-left: 40px;
+    margin-right: 500px;
+    text-shadow: 2px 2px orange;
+    box-shadow: 10px 10px orange;
+}
+
+h1 {
+    text-align: center;
+    border-style: solid;
+    border-width: 4px;
+    border-color:blue;
+    margin-left: 720px;
+    margin-right: 720px;
+    text-shadow: 2px 2px 5px red;
+}
+
+.alltext {
+    color: black;
+}
+img{
+    border-radius: 25%;
+    border-style:dashed;
+    border-width: 2px;
+    border-color: black;
+    display: block;
+    margin-left:25%;
+    margin-right:25%;
+}
+footer{
+    text-align: center;
+    color: blue
+}
+.navlinks{
+    position:fixed;
+    margin-left:1600px;
+    text-align:center;
+    margin-top: 200px;
+}
